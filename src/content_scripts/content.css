@@ -7,6 +7,8 @@ div.surfingkeys_hints_host {
     left: 0;
     overflow: hidden;
     pointer-events: none;
+    background: transparent;  /* hints on yhetil.org cause white screen*/
+
 }
 div.surfingkeys_match_mark {
     background-color: #ff0;
